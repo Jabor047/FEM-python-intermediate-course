@@ -1,6 +1,6 @@
 # FEM Intermediate Python Course
 
-Contains code from the FEM Indermediate Python Course, the course outline can be found here[https://www.learnpython.dev/]
+Contains code from the FEM Indermediate Python Course, the course website can be found [here](https://www.learnpython.dev/) amd the course itself can be found [here](https://frontendmasters.com/courses/intermediate-python/)
 
 ## Contents
 ### Flask
